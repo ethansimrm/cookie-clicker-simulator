@@ -243,7 +243,7 @@ def run_strategy(strategy_name, time, strategy):
 
 def run():
     """
-    Run the simulator.
+    Run the simulator. Uncomment to see the effect of each strategy.
     """    
     # run_strategy("Cursor", SIM_TIME, strategy_cursor_broken)
 
