@@ -1,6 +1,6 @@
 # cookie-clicker-simulator
 
-This is a simulator for a simplified implementation of the popular game Cookie Clicker (https://orteil.dashnet.org/cookieclicker/) written for the CodeSkulptor browser-based IDE, which was created by the Rice University Department of Computer Science. Essentially, we ask the question: Which items should we buy next to maximise the number of cookies we end up with?
+This is my simulator for a simplified implementation of the popular game Cookie Clicker (https://orteil.dashnet.org/cookieclicker/) written for the CodeSkulptor browser-based IDE, which was created by the Rice University Department of Computer Science. Essentially, we ask the question: Which items should we buy next to maximise the number of cookies we end up with?
 
 This was written in Python 2.7, and thus mainly works in CodeSkulptor - you can access it at https://py2.codeskulptor.org/#user48_xrRg3QOEZa_1.py.
 
